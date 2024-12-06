@@ -1,0 +1,12 @@
+
+.container{
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgb(0, 0, 0,0.2);
+    padding: 15px 30px;
+    transition: transform 0.2s;
+    width: 550px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}

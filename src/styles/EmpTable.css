@@ -1,0 +1,7 @@
+.notification {
+    background-color: #4caf50; /* Green background */
+    color: white; /* White text */
+    padding: 10px; /* Some padding */
+    margin: 10px 0; /* Space above and below */
+    border-radius: 5px; /* Rounded corners */
+}
